@@ -2098,7 +2098,7 @@ Jeśli Grupa Dowódcza znajduje się w odległości 5 cm od przyjaznego oddział
         <categoryLink id="98df-08a6-2251-f1a2" name="Mag" hidden="false" targetId="807c-d1a0-dd7a-19d6" primary="false"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="9a60-d427-88af-13ed" name="Kula Ognia" hidden="false" collective="false" import="true" targetId="3418-7f68-c221-585a" type="selectionEntry">
+        <entryLink id="9a60-d427-88af-13ed" name="Rock Spliter Hand Axe" hidden="false" collective="false" import="true" targetId="3418-7f68-c221-585a" type="selectionEntry">
           <categoryLinks>
             <categoryLink id="11cb-adbf-4d55-d244" name="Mag" hidden="false" targetId="807c-d1a0-dd7a-19d6" primary="false"/>
           </categoryLinks>
@@ -2138,7 +2138,7 @@ Jeśli Grupa Dowódcza znajduje się w odległości 5 cm od przyjaznego oddział
             <categoryLink id="7a1d-db39-69b4-d2ea" name="Mag" hidden="false" targetId="807c-d1a0-dd7a-19d6" primary="false"/>
           </categoryLinks>
         </entryLink>
-        <entryLink id="0738-6a2f-70d9-4565" name="Groza" hidden="false" collective="false" import="true" targetId="47ea-13ca-009f-9450" type="selectionEntry">
+        <entryLink id="0738-6a2f-70d9-4565" name="Particle Disruptor" hidden="false" collective="false" import="true" targetId="47ea-13ca-009f-9450" type="selectionEntry">
           <categoryLinks>
             <categoryLink id="8c88-3f73-4cd6-f240" name="Mag" hidden="false" targetId="807c-d1a0-dd7a-19d6" primary="false"/>
           </categoryLinks>
