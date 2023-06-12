@@ -16,7 +16,7 @@ www.patreon.com/wildmesh
 
 ## Additional info ##
 
-This project is fan made. 
+This project is a made for entertainment :) 
 
 
 ©2023 Den of Imagination
